@@ -1,0 +1,40 @@
+C:\Users\Live\documents\visual studio 2013\Projects\SiparisListeleme\SiparisListeleme\bin\SiparisListeleme.dll.config
+C:\Users\Live\documents\visual studio 2013\Projects\SiparisListeleme\SiparisListeleme\bin\SiparisListeleme.dll
+C:\Users\Live\documents\visual studio 2013\Projects\SiparisListeleme\SiparisListeleme\bin\SiparisListeleme.pdb
+C:\Users\Live\documents\visual studio 2013\Projects\SiparisListeleme\SiparisListeleme\obj\Debug\SiparisListeleme.csprojResolveAssemblyReference.cache
+C:\Users\Live\documents\visual studio 2013\Projects\SiparisListeleme\SiparisListeleme\obj\Debug\SiparisListeleme.dll
+C:\Users\Live\documents\visual studio 2013\Projects\SiparisListeleme\SiparisListeleme\obj\Debug\SiparisListeleme.pdb
+C:\Users\ARIBİLGİ\Desktop\SiparisListeleme\SiparisListeleme\SiparisListeleme\bin\SiparisListeleme.dll
+C:\Users\ARIBİLGİ\Desktop\SiparisListeleme\SiparisListeleme\SiparisListeleme\bin\SiparisListeleme.pdb
+C:\Users\ARIBİLGİ\Desktop\SiparisListeleme\SiparisListeleme\SiparisListeleme\obj\Debug\SiparisListeleme.csprojResolveAssemblyReference.cache
+C:\Users\ARIBİLGİ\Desktop\SiparisListeleme\SiparisListeleme\SiparisListeleme\obj\Debug\SiparisListeleme.dll
+C:\Users\ARIBİLGİ\Desktop\SiparisListeleme\SiparisListeleme\SiparisListeleme\obj\Debug\SiparisListeleme.pdb
+C:\Users\Live\Desktop\SiparisListeleme (1)\SiparisListeleme\SiparisListeleme\SiparisListeleme\bin\SiparisListeleme.dll.config
+C:\Users\Live\Desktop\SiparisListeleme (1)\SiparisListeleme\SiparisListeleme\SiparisListeleme\bin\SiparisListeleme.dll
+C:\Users\Live\Desktop\SiparisListeleme (1)\SiparisListeleme\SiparisListeleme\SiparisListeleme\bin\SiparisListeleme.pdb
+C:\Users\Live\Desktop\SiparisListeleme (1)\SiparisListeleme\SiparisListeleme\SiparisListeleme\obj\Debug\SiparisListeleme.csprojResolveAssemblyReference.cache
+C:\Users\Live\Desktop\SiparisListeleme (1)\SiparisListeleme\SiparisListeleme\SiparisListeleme\obj\Debug\SiparisListeleme.dll
+C:\Users\Live\Desktop\SiparisListeleme (1)\SiparisListeleme\SiparisListeleme\SiparisListeleme\obj\Debug\SiparisListeleme.pdb
+C:\Users\ARIBİLGİ\Desktop\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme\SiparisListeleme\SiparisListeleme\bin\SiparisListeleme.dll
+C:\Users\ARIBİLGİ\Desktop\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme\SiparisListeleme\SiparisListeleme\bin\SiparisListeleme.pdb
+C:\Users\ARIBİLGİ\Desktop\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme\SiparisListeleme\SiparisListeleme\obj\Debug\SiparisListeleme.csprojResolveAssemblyReference.cache
+C:\Users\ARIBİLGİ\Desktop\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme\SiparisListeleme\SiparisListeleme\obj\Debug\SiparisListeleme.dll
+C:\Users\ARIBİLGİ\Desktop\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme\SiparisListeleme\SiparisListeleme\obj\Debug\SiparisListeleme.pdb
+C:\Users\cspr\Desktop\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme\SiparisListeleme\SiparisListeleme\bin\SiparisListeleme.dll.config
+C:\Users\cspr\Desktop\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme\SiparisListeleme\SiparisListeleme\bin\SiparisListeleme.dll
+C:\Users\cspr\Desktop\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme\SiparisListeleme\SiparisListeleme\bin\SiparisListeleme.pdb
+C:\Users\cspr\Desktop\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme\SiparisListeleme\SiparisListeleme\obj\Debug\SiparisListeleme.csprojResolveAssemblyReference.cache
+C:\Users\cspr\Desktop\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme\SiparisListeleme\SiparisListeleme\obj\Debug\SiparisListeleme.dll
+C:\Users\cspr\Desktop\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme\SiparisListeleme\SiparisListeleme\obj\Debug\SiparisListeleme.pdb
+C:\Users\cspr\Desktop\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme\bin\SiparisListeleme.dll.config
+C:\Users\cspr\Desktop\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme\bin\SiparisListeleme.dll
+C:\Users\cspr\Desktop\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme\bin\SiparisListeleme.pdb
+C:\Users\cspr\Desktop\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme\obj\Debug\SiparisListeleme.csprojResolveAssemblyReference.cache
+C:\Users\cspr\Desktop\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme\obj\Debug\SiparisListeleme.dll
+C:\Users\cspr\Desktop\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme\obj\Debug\SiparisListeleme.pdb
+C:\Users\Polen\Desktop\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme\bin\SiparisListeleme.dll.config
+C:\Users\Polen\Desktop\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme\bin\SiparisListeleme.dll
+C:\Users\Polen\Desktop\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme\bin\SiparisListeleme.pdb
+C:\Users\Polen\Desktop\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme\obj\Debug\SiparisListeleme.csprojResolveAssemblyReference.cache
+C:\Users\Polen\Desktop\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme\obj\Debug\SiparisListeleme.dll
+C:\Users\Polen\Desktop\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme (1)\SiparisListeleme\obj\Debug\SiparisListeleme.pdb
